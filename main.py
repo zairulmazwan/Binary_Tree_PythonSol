@@ -1,6 +1,7 @@
 from Tree import Binary_Tree
 
-data = [20,6,17,5,2,19,7,13]
+# data = [20,6,17,5,2,19,7,13]
+data = [32,12,36,23,33,39]
 my_tree = Binary_Tree()
 
 my_tree.create_tree(data)
